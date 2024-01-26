@@ -2,13 +2,13 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-Telewizja Republika | TV | https://upload.wikimedia.org/wikipedia/commons/c/cf/Logo_Telewizji_Republiki.png |
+Telewizja Republika | TV | |
 https://www.youtube.com/@Telewizja_Republika/live
 
-Parafia Piwniczna-Zdrój | Parafia | https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Piwniczna-Zdr%C3%B3j%2C_ko%C5%9Bci%C3%B3%C5%82_Narodzenia_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_%28HB4%29.jpg/640px-Piwniczna-Zdr%C3%B3j%2C_ko%C5%9Bci%C3%B3%C5%82_Narodzenia_Naj%C5%9Bwi%C4%99tszej_Maryi_Panny_%28HB4%29.jpg |
+Parafia Piwniczna-Zdrój | Parafia | |
 https://www.youtube.com/@parafiapiwniczna2022/live
 
-Sanktuarium w Łagiewnikach | Parafia | https://www.faustyna.pl/zmbm/wp-content/uploads/2021/12/5_S%CC%81wie%CC%A8ta-Siostra-Faustyna-portret-z-obrazu-pe%CC%A8dzla-Stanislawa-Sztama-%C2%A9-ISMM.jpg |
+Sanktuarium w Łagiewnikach | Parafia | |
 https://www.youtube.com/@sw.faustyna/live
 
 
