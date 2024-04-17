@@ -12,10 +12,10 @@
 
 
 #EXTINF:-1 group-title="Tv" tvg-logo="" tvg-id="", Telewizja Republika
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713344988/ei/fD0fZuebMcWBkucPhJG8wAI/ip/20.75.95.98/id/dzntyCTgJMQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9D5nE7vQb_ndywcgs-kbwvsjYTldUTpOhpRn2VHrR8hFFESRsG9so4R/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgVtyJpnJUntw5ZHfPilqLldqLxX6uscyOogw0Fbhb-K0CIQDL1DaVkcrFliD_M_r4WVnZwJE1dOeCzpWe2JZKSkZLVw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Parafia" tvg-logo="" tvg-id="", Parafia Piwniczna-Zdrój
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713344989/ei/fT0fZqGbEemnkucPm9iugA0/ip/20.75.95.98/id/HedCFdVyDKQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9fyqWWTigdgdppfLhuJQKJRElKYAdPwg1C_r8uoMiGXAKWWB8XnsnqPFM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgF9KL4l7Bz7_uhsDlDBq0Q2VI3HILwAej8_gEvJiVN7QCIF0_gf7c28HtBuFVtqblesSEJQdTrRRfTAibwNak7A7o/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="Parafia" tvg-logo="" tvg-id="", Sanktuarium w Łagiewnikach
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1713344989/ei/fT0fZvHsLauekucPgNucIA/ip/20.75.95.98/id/gj0y8vuuBKQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f9w66Xhuz9cAxupCD_ZfVJEoK3GhOVyyssyIJwpuPLVdvMS0fyIaMQNI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgTbjkN_CXnpODPlMn1uvHpltS6kSQwMBKcc4YxLRBpFkCIQCepEI3S3pW79zdjO7LmU0UhW7LNgZB-6FtFlJ27EvdOQ%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
