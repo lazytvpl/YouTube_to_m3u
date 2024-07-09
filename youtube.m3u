@@ -12,10 +12,10 @@
 
 
 #EXTINF:-1 group-title="Tv" tvg-logo="" tvg-id="", Telewizja Republika
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720537856/ei/oP6MZrvnLeeY2_gPtuCcuAU/ip/172.183.107.18/id/dzntyCTgJMQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAQ7trmjY25Qd18aXjkxDPXi7gh40qftYmysc4_WwuD7xbG3uRy0LJnqpm9k/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIU4zcNaYnxJND1A3rp-6lABSlC3k0X1IXMZxKDFj90NAiBh-c3l_7KSO13QT7WBL56SGv5u2LrWdBvEMT43NQb9Pw%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="Parafia" tvg-logo="" tvg-id="", Parafia Piwniczna-Zdrój
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720537857/ei/of6MZryqEszDybgP6PyZ-Ao/ip/172.183.107.18/id/HedCFdVyDKQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51191460/txs/51191460%2C51191461%2C51191462%2C51219771/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAWMifcnI6A1-CLlckhUj3B2nLryiF4E6LiwQVNj56_RSZql3iz9kOruKbic/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgCBw6spS0U8hJXX43F3pP8d3w2vSCYhWux7_pDyFhULsCIDAz-MlilpeqGspn1cfjOWr8gU-MkwrhLicDdDUIABnF/file/index.m3u8
 
 #EXTINF:-1 group-title="Parafia" tvg-logo="" tvg-id="", Sanktuarium w Łagiewnikach
-https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1720537857/ei/of6MZorjKq_CybgPxPqo2Ag/ip/172.183.107.18/id/tiOQMLEAfQQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAcB02caH1hcoyeBK6amV1qBdUAw7n50w2JoMhPhVA7ynuo3Hs-Iw8QgXeJ0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAPsLKCqbwsnbQ4sSvrkK1VS2vEq_wywwF-vFNrHyQSqeAiA_j_4XMTwrVk5kPs4sgqST6e7NpUkmEcG3etWRinb1EA%3D%3D/file/index.m3u8
